@@ -15,4 +15,5 @@ This project helps me understand ext2 file systems and improve my skills in file
 
 ### References
 [file signatures](http://www.garykessler.net/library/file_sigs.html)
-[disk images](http://en.wikipedia.org/wiki/Disk_image).
+
+[disk images](http://en.wikipedia.org/wiki/Disk_image)
